@@ -12,11 +12,11 @@
 - Percentage and Visual results
 - Easy to use
 
-## Requirements
-- Python 3+
-
 ## Demo
 <img src="demo/demo.png">
+
+## Requirements
+- Python 3+
 
 ## Installation
 - pip install -r requirements.txt
